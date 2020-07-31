@@ -1,0 +1,50 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-image: url(https://i.pinimg.com/736x/5b/59/27/5b592731fa08c04540b2d15993f0583b.jpg);
+  height: 100vh;
+  width: 100%;
+  background-size: contain;
+}
+
+#number {
+  height: 25px;
+  width: 250px;
+  margin: 50px;
+  border-radius: 20px;
+  border-color: black;
+  padding: 5px;
+}
+
+#color {
+  width: 60px;
+  margin-top: 60px;
+  margin-right: 50px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+#goButton {
+  height: 25px;
+  width: 100px;
+  padding: 5px;
+  border: black;
+  background: radial-gradient(black, transparent);
+  color: white;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+#btn {
+  height: 50px;
+  width: 60px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  color: wheat;
+  font: outline;
+  text-align: center;
+  border-radius: 10px;
+}
